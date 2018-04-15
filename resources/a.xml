@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book>
+        <name>
+            Thinking in Java
+        </name>
+        <price>
+            49.55
+        </price>
+        <desc>
+            这是一本Java的高级教程
+        </desc>
+    </book>
+    <book>
+        <name>
+            Deep in JVM
+        </name>
+        <price>
+            155
+        </price>
+        <desc>
+            这是一本Java的虚拟机教程
+        </desc>
+    </book>
+</books>
